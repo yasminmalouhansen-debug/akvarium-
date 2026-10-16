@@ -16,7 +16,6 @@ const fisk2 = {
     speed: 12
 }
 
-//denne del har Sara lavet//
 const fisk3 = {
     navn: "fisk1",
     info: "Fisk, der stammer fra den mystiske sø ...",
