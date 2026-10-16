@@ -34,7 +34,7 @@ const fisk4 = {
     speed: 12
 }
 
-
+// Christian har lavet denne kodning, som gør at man kan afspille lyd ved at trykke på knapperne.//
 const knap = document.getElementById("lydknap1");
 const lyd = document.getElementById("voice1");
 
