@@ -81,7 +81,8 @@ position: absolute;
     transform: translateX(-1000px);
   }
 }
-//denne del har Sara lavet//
+
+/* denne del har Sara lavet */
 .fisk3 {
     position: absolute;
     right: -100px;
@@ -177,7 +178,7 @@ button.lydknap2:hover {
   color: #FFFB00;;
   background-color: #FF9D00;
 }
-
+*/denne del har Sara lavet*/
 button.lydknap3 {
   cursor: pointer;
   color: white;
